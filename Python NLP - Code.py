@@ -3,7 +3,7 @@
 """
 Created on Fri Mar 23 01:49:37 2018
 
-@author: reneehsu
+@author: AprilGuo
 """
 """
 Import the book and a text file named “firstname.txt” that contains all the common first names in English language (downloaded online).
